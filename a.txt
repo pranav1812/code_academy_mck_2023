@@ -1,2 +1,2 @@
 qwerty1
-hey 'A' from master branch
+hey 'A' from rebase-practice branch
